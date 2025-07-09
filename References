@@ -1,0 +1,9 @@
+[1] A. Bordes, N. Usunier, A. Garcia-Duran, J. Weston, and O. Yakhnenko, “Translating embeddings for modeling multi-relational data,” in Advances in Neural Information Processing Systems, vol. 26, pp. 2787–2795, 2013. [Online]. Available: https://papers.nips.cc/paper_files/paper/2013/file/1cecc7a77928ca8133fa24680a88d2f9-Paper.pdf
+
+[2] Z. Shi, Z. Lin, and C. Xu, “Masked label prediction: Unified message passing model for semi-supervised classification,” in Proceedings of the AAAI Conference on Artificial Intelligence, vol. 36, no. 8, pp. 8879–8887, Jun. 2022. doi: 10.1609/aaai.v36i8.20881.
+
+[3] P. Veličković, G. Cucurull, A. Casanova, A. Romero, P. Liò, and Y. Bengio, “Graph attention networks,” in International Conference on Learning Representations (ICLR), 2018. [Online]. Available: https://arxiv.org/abs/1710.10903
+
+[4] Y. Song and S. Ermon, “Generative modeling by estimating gradients of the data distribution,” in Advances in Neural Information Processing Systems, vol. 32, pp. 11918–11930, 2019. [Online]. Available: https://proceedings.neurips.cc/paper_files/paper/2019/file/3001ef257407d5a371a96c9cb9b9cfd0-Paper.pdf
+
+[5] J. Ho, A. Jain, and P. Abbeel, “Denoising diffusion probabilistic models,” in Advances in Neural Information Processing Systems, vol. 33, pp. 6840–6851, 2020. [Online]. Available: https://arxiv.org/abs/2006.11239
